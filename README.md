@@ -6,8 +6,6 @@ Essa é uma API desenvolvida em Spring Boot para gerenciar as operações da Bar
 
 * Java 8 ou superior
 * Maven
-* h2 database
-
 
 ## Configuração
 
